@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6i2rw8EjPRWa0+4tSWH8Z+WOu+0N3zLebj/HW4vMKvqPeRt6KL6FKYc3PgSt8SKIOtgQik056eTzuyCr9xQfhA==",
+  "dgSpecHash": "XARlBsLRUTjiSHb1zr1SPy5s2mU/Few4VmjK84IgDiVPjBfFs/0Sw+W/iCLrlxD2T+weUvgXzJiW8OJNT5t7yA==",
   "success": true,
   "projectFilePath": "D:\\Tugas\\Tugas Kuliah\\Semester 4\\KPL\\modul8_1302220018\\modul8_1302220018\\modul8_1302220018.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
